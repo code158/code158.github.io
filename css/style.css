@@ -438,7 +438,7 @@ i.glyphicon.glyphicon-book {
     border: 1px solid #19c20d;
 }
 
-.top-middle .fa-twitter {
+.top-middle .fa-book {
     font-size: 16px;
     text-align: center;
     line-height: 29px;
@@ -454,7 +454,7 @@ i.glyphicon.glyphicon-book {
     height: 30px;
 }
 
-.top-middle .fa-twitter:hover {
+.top-middle .fa-book:hover {
     background: #1da1f2;
     color: #ececec;
     border: 1px solid #1da1f2;
